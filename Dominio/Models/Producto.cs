@@ -11,7 +11,7 @@ namespace TestTecnico.Dominio.Models
         [Column(TypeName = "varchar(80)")]
         public string NombreProducto { get; set; }
         [Required]
-        [Column(TypeName = "double")]
-        public string Precio { get; set; }
+        //[Column(TypeName = "decimal(18, 2)")]
+        public decimal Precio { get; set; }
     }
 }

@@ -24,12 +24,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/andy_/Documents/Cursos/ASP.NET/TestTecnico/Views/Producto/IndexProducto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cSW5kZXhQcm9kdWN0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/andy_/Documents/Cursos/ASP.NET/TestTecnico/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/andy_/Documents/Cursos/ASP.NET/TestTecnico/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andy_/Documents/Cursos/ASP.NET/TestTecnico/Views/UsuarioProducto/IndexUsuarioProducto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1Byb2R1Y3RvXEluZGV4VXN1YXJpb1Byb2R1Y3RvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andy_/Documents/Cursos/ASP.NET/TestTecnico/Views/Usuario/IndexUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleFVzdWFyaW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/andy_/Documents/Cursos/ASP.NET/TestTecnico/Views/_ViewImports.cshtml]

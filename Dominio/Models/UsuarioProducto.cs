@@ -8,10 +8,8 @@ namespace TestTecnico.Dominio.Models
         [Key]
         public int Id { get; set; }
         [Required]
-        [Column(TypeName = "int")]
         public int IdUsuario { get; set; }
         [Required]
-        [Column(TypeName = "int")]
         public int IdProducto { get; set; }
     }
 }
